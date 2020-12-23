@@ -196,11 +196,11 @@
 .welcome .welcome-items h4{
     color: #ff4f81;
     font-size: 1.8em;
-    font-weight: 600px;
+    font-weight: 600;
 }
 .welcome .welcome-items h5{
     font-size: 1em;
-    font-weight: 600px;
+    font-weight: 600;
 }
 .welcome .welcome-items p{
     color: gray;
